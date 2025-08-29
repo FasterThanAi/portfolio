@@ -1,0 +1,4 @@
+@media screen and (max-width:900px) {
+  #desktop-nav { display: none }
+  #sec-nav { display: flex  }
+}
